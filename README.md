@@ -1,3 +1,3 @@
 ## Appointment Booking Project
 
-## Front End & Back End
+## Front-end & Back-end
